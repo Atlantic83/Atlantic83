@@ -34,7 +34,7 @@
 
 
 <h1 align="left">🏆 𝙏𝙧𝙤𝙥𝙝𝙮 𝘾𝙖𝙗𝙞𝙣𝙚𝙩</h1>
-<div align="left"><!-- Weird trophy mashup cuz of old account --><img src="https://github-profile-trophy.vercel.app/?username=AntonSaurytski83&theme=radical&rank=-c,-?&title=-Experience&no-frame=true&no-bg=true&column=5&row=1" width="80%" alt="Trophies Might be Rate Limited" /><img src="https://github-profile-trophy.vercel.app/?username=AntonSaurytski83&theme=radical&no-frame=true&no-bg=true&column=1&row=1&title=Experience" width="16%" alt="" /></div>
+<div align="left"><!-- Weird trophy mashup cuz of old account --><img src="https://github-profile-trophy.vercel.app/?username=Atlantic83&theme=radical&rank=-c,-?&title=-Experience&no-frame=true&no-bg=true&column=5&row=1" width="80%" alt="Trophies Might be Rate Limited" /><img src="https://github-profile-trophy.vercel.app/?username=Atlantic83&theme=radical&no-frame=true&no-bg=true&column=1&row=1&title=Experience" width="16%" alt="" /></div>
 
 
 
@@ -42,11 +42,11 @@
 
 <p align="center">
 <a href="https://github.com/AntonSaurytski83">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AntonSaurytski83&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AntonSaurytski83&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Atlantic83&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Atlantic83&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=AntonSaurytski83)
+![](https://komarev.com/ghpvc/?username=Atlantic83)
 
-[![Antony profile views](https://u8views.com/api/v1/github/profiles/13483102/views/day-week-month-total-count.svg)](https://u8views.com/github/AntonSaurytski83)
+[![Antony profile views](https://u8views.com/api/v1/github/profiles/13483102/views/day-week-month-total-count.svg)](https://u8views.com/github/Atlantic83)
